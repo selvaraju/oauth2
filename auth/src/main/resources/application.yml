@@ -1,0 +1,10 @@
+tekton-auth:
+  secretKey: testKey
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: b0ba82dfabd85ef05a41
+            clientSecret: f334b7a2e9769974e5c72f9345064e0a5f1e2e09

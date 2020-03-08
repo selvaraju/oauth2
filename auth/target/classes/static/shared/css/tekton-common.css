@@ -1,0 +1,38 @@
+.label-Updated{background-color:#5cb85c}
+.label-Updated[href]:focus,
+.label-Updated[href]:hover{background-color:#449d44}
+
+.label-Outdated{background-color:#d9534f}
+.label-Outdated[href]:focus,
+.label-Outdated[href]:hover{background-color:#c9302c}
+
+.label-Unknown{background-color:#777}
+.label-Unknown[href]:focus,
+.label-Unknown[href]:hover{background-color:#777}
+
+
+  /* Popover */
+  .popover {
+    border: 1px dotted red;
+  }
+  /* Popover Header */
+  .popover-title {
+    background-color: lightgray;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align:center;
+  }
+  /* Popover Body */
+  .popover-content {
+    background-color: lightgoldenrodyellow;
+    color:  black;
+    font-size: 14px;
+    padding: 25px;
+  }
+  /* Popover Arrow */
+  .arrow {
+    border-right-color: red !important;
+  }
+
+
